@@ -4,7 +4,7 @@ class CustomException extends Exception {
     }
 }
 
-public class P11 {
+public class PR11 {
     public static void main(String[] args) {
         System.out.println("Command Line All Arguments : ");
         try {
