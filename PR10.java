@@ -73,7 +73,7 @@ class Circle1 implements shapes
         return 2*3.14*v2;
     }
 }
-public class P10 {
+public class PR10 {
 static Scanner sc=new Scanner(System.in);
   public static void operation(shapes s)
   {
