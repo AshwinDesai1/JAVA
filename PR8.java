@@ -154,7 +154,7 @@ class Matrix
         return " ";
     }
 }
-public class P8 {
+public class PR8 {
   static Scanner sc=new Scanner(System.in);
   public static void operation(Matrix m1,Matrix m2)
   {
